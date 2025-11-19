@@ -32,7 +32,7 @@ The QR Code Generator is a lightweight web tool where users can:
 
 
 
-<img src="qr Result.png" height=200 widith=300>
+<<style>text-align:"center"</style>  img src="qr Result.png" height=200 widith=300>
 
 ---
 
