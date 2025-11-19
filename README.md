@@ -30,11 +30,9 @@ The QR Code Generator is a lightweight web tool where users can:
 
 ## 🖼️ Website Preview
 
-```md
-![QR Code Generator](qr_preview.png)
-```
 
-<img src="qr Result.png">
+
+<img src="qr Result.png" height=200 widith=300>
 
 ---
 
