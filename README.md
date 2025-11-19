@@ -34,7 +34,7 @@ The QR Code Generator is a lightweight web tool where users can:
 ![QR Code Generator](qr_preview.png)
 ```
 
-*(Make sure to place `qqr Result.png` in the same folder as this README.)*
+<img src="qr Result.png">
 
 ---
 
